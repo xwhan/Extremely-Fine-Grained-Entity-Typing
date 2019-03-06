@@ -16,7 +16,6 @@ Model Overview:
 ### Running the code
 First prepare the dataset and embeddings
 * download data from [http://nlp.cs.washington.edu/entity_type/data/ultrafine_acl18.tar.gz](http://nlp.cs.washington.edu/entity_type/data/ultrafine_acl18.tar.gz), unzip if and put it under ``data/``
-* build the vocabulary by running ``python data_utils.py``
 
 
 #### 1. Ultra-Fine experiments (10331 free-text labels and millions of training data)
