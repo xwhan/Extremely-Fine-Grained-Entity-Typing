@@ -94,9 +94,6 @@ class Model(nn.Module):
     if args.data_setup == 'joint' and args.multitask and args.gcn:
       print("Multi-task learning with gcn on labels")
       self.decoder = GCNMultiDecoder(self.output_dim)
-    elif args.data_setup == 'joint' and args.multitask and args.label_prop:
-      print("Multi-task learning with gcn on both label vectors and scores")
-      self.decoder = ScorePropDecoder(self.output_dim)
     elif args.data_setup == 'joint' and args.multitask:
       print("Multi-task learning")
       self.decoder = MultiSimpleDecoder(self.output_dim)

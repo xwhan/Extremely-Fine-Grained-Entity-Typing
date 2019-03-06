@@ -12,7 +12,8 @@ sys.path.insert(0, './resources')
 import constant
 
 def build_concurr_matrix(emb_name='fasttext', emb_source='wiki-news-300d-1M-subword', goal='open'):
-    data_path = '../data/release/'
+# def build_concurr_matrix(emb_name='glove', emb_source='glove.840B.300d', goal='open'):
+    data_path = 'data/release/'
     # build the yid concurr matrix
     if goal == 'onto':
         label2id = constant.ANS2ID_DICT["onto"]

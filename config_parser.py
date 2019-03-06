@@ -57,7 +57,7 @@ def read_args():
     parser.add_argument("-add_regu", action='store_true')
     parser.add_argument("-regu_steps", default=8000, type=int)
     parser.add_argument("-self_attn", action='store_true', help="replace LSTM with self-attention encoder")
-    parser.add_argument("-label_prop", action='store_true')
+    parser.add_argument("-label_prop", action='store_true', help='not useful anymore')
     parser.add_argument("-thresh", default=0.5, type=float)
 
     args = parser.parse_args()

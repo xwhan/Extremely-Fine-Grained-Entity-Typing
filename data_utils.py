@@ -13,9 +13,6 @@ sys.path.insert(0, './resources/')
 import constant
 import torch
 
-
-
-
 def to_torch(feed_dict):
   torch_feed_dict = {}
   if 'annot_id' in feed_dict:
