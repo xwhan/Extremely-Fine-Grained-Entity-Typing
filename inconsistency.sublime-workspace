@@ -1,0 +1,1386 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"else",
+				"else_index_dev\tstatement"
+			],
+			[
+				"tru",
+				"true_prediction\tparam"
+			],
+			[
+				"pred",
+				"predset\tstatement"
+			],
+			[
+				"prono",
+				"pronoun_index_dev\tstatement"
+			],
+			[
+				"pre",
+				"predset\tstatement"
+			],
+			[
+				"pron",
+				"pronoun_probs\tstatement"
+			],
+			[
+				"pro",
+				"pronoun_probs\tstatement"
+			],
+			[
+				"type",
+				"type_\tstatement"
+			],
+			[
+				"y",
+				"y_str_list\tstatement"
+			],
+			[
+				"le",
+				"left_seq\tstatement"
+			],
+			[
+				"pers",
+				"person_id_row\tstatement"
+			],
+			[
+				"thre",
+				"threshes\tstatement"
+			],
+			[
+				"op",
+				"optimizer\tstatement"
+			],
+			[
+				"el",
+				"elmo_proj"
+			],
+			[
+				"max_",
+				"max_seq_length\tstatement"
+			],
+			[
+				"we",
+				"weight_output"
+			],
+			[
+				"inte",
+				"interested_vecttors\tstatement"
+			],
+			[
+				"conte",
+				"context_rep_2\tstatement"
+			],
+			[
+				"mention",
+				"mention_seq\tstatement"
+			],
+			[
+				"menti",
+				"mention_seq\tstatement"
+			],
+			[
+				"labe",
+				"label_vectors\tstatement"
+			],
+			[
+				"la",
+				"label_vectors\tstatement"
+			],
+			[
+				"mo",
+				"model_debug"
+			],
+			[
+				"validatio",
+				"validation_log\tstatement"
+			],
+			[
+				"label",
+				"label_matrix"
+			],
+			[
+				"ANS",
+				"ANSWER_NUM_DICT\tstatement"
+			],
+			[
+				"embe",
+				"embedding"
+			],
+			[
+				"open",
+				"open_id2ans\tstatement"
+			],
+			[
+				"concu",
+				"concurr_labels\tstatement"
+			],
+			[
+				"y_",
+				"y_strs\tstatement"
+			],
+			[
+				"out_",
+				"output_str\tstatement"
+			],
+			[
+				"total_e",
+				"total_eval_loss\tstatement"
+			],
+			[
+				"eval_a",
+				"eval_accus\tstatement"
+			],
+			[
+				"extr",
+				"extractionLines\tfunction"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"C",
+				"C\tstatement"
+			],
+			[
+				"hypo",
+				"hypo_indicator\tstatement"
+			],
+			[
+				"from",
+				"from_numpy\tfunction"
+			],
+			[
+				"tu",
+				"true"
+			],
+			[
+				"compl",
+				"complex_\tstatement"
+			],
+			[
+				"ent_embe",
+				"ent_embeddings"
+			],
+			[
+				"dev_",
+				"dev_tasks_\tstatement"
+			],
+			[
+				"for",
+				"for_filtering\tfunction"
+			],
+			[
+				"tripl",
+				"triples_\tstatement"
+			],
+			[
+				"trip",
+				"triple\tstatement"
+			],
+			[
+				"rel2tri",
+				"rel2triples_\tstatement"
+			],
+			[
+				"rel2",
+				"rel2triples_\tstatement"
+			],
+			[
+				"rel_s",
+				"rel_lines\tstatement"
+			],
+			[
+				"readlin",
+				"readlines\tfunction"
+			],
+			[
+				"query_righ",
+				"query_right_connections\tstatement"
+			],
+			[
+				"query_le",
+				"query_left_connections\tstatement"
+			],
+			[
+				"suppo",
+				"support_right\tstatement"
+			],
+			[
+				"symbo",
+				"symbol_id\tstatement"
+			],
+			[
+				"encode",
+				"encode_path\tfunction"
+			],
+			[
+				"support_",
+				"support_self_attn\tstatement"
+			],
+			[
+				"encd",
+				"encode_path\tfunction"
+			],
+			[
+				"pai",
+				"pair_feature\tfunction"
+			],
+			[
+				"test_n",
+				"test_neg_paths\tstatement"
+			],
+			[
+				"Modul",
+				"ModuleList"
+			],
+			[
+				"sub_pa",
+				"sub_path_2\tstatement"
+			],
+			[
+				"sym",
+				"symbol2id\tparam"
+			],
+			[
+				"train_",
+				"train_tasks"
+			],
+			[
+				"symbol2id",
+				"symbol2ids\tparam"
+			],
+			[
+				"ty",
+				"type_\tstatement"
+			],
+			[
+				"all_re",
+				"all_reason_relation_triples\tstatement"
+			],
+			[
+				"symbol",
+				"symbol2id"
+			],
+			[
+				"rel_e",
+				"rel_embed\tstatement"
+			],
+			[
+				"combi",
+				"combine_vocab\tfunction"
+			],
+			[
+				"con",
+				"conv3\tstatement"
+			],
+			[
+				"se",
+				"symbol_emb\tstatement"
+			],
+			[
+				"inpu",
+				"input_dim\tparam"
+			],
+			[
+				"ent",
+				"ent_emb_np\tstatement"
+			],
+			[
+				"di",
+				"defaultdict\tclass"
+			],
+			[
+				"ran",
+				"ranks_per_rel\tstatement"
+			],
+			[
+				"ge",
+				"get_query_relation"
+			],
+			[
+				"tes",
+				"test_action_idx\tstatement"
+			],
+			[
+				"bath",
+				"batch_size\tstatement"
+			],
+			[
+				"batc",
+				"batch_size\tstatement"
+			],
+			[
+				"agr",
+				"arg_dic\tstatement"
+			],
+			[
+				"ar",
+				"arg_dic\tstatement"
+			],
+			[
+				"add",
+				"addHandler\tfunction"
+			],
+			[
+				"forma",
+				"formatter\tstatement"
+			],
+			[
+				"set",
+				"setFormatter\tfunction"
+			],
+			[
+				"nav_err",
+				"nav_errors_final\tstatement"
+			],
+			[
+				"bat",
+				"batch_size\tstatement"
+			],
+			[
+				"path_",
+				"path_lengths\tstatement"
+			],
+			[
+				"entro",
+				"entropy_num\tstatement"
+			],
+			[
+				"en",
+				"encoder"
+			],
+			[
+				"tw",
+				"tweet_tokens\tstatement"
+			],
+			[
+				"out",
+				"out_path2\tstatement"
+			],
+			[
+				"tweet",
+				"tweets_with_id\tstatement"
+			],
+			[
+				"da",
+				"data_path\tstatement"
+			],
+			[
+				"clea",
+				"clean_doc\tstatement"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"te",
+				"tweet_extract\tfunction"
+			],
+			[
+				"html",
+				"html_files\tstatement"
+			],
+			[
+				"sou",
+				"sources\tstatement"
+			],
+			[
+				"news",
+				"news_media\tstatement"
+			],
+			[
+				"sub_",
+				"sub_path\tstatement"
+			],
+			[
+				"main_",
+				"main_html\tstatement"
+			],
+			[
+				"get",
+				"get_parser"
+			],
+			[
+				"htm",
+				"html_download\tfunction"
+			],
+			[
+				"pa",
+				"page_no"
+			],
+			[
+				"entr",
+				"entropy_coef"
+			],
+			[
+				"distances_smo",
+				"distances_smoothed_1\tstatement"
+			],
+			[
+				"coun",
+				"count_lfd\tstatement"
+			],
+			[
+				"distances_",
+				"distances_b1"
+			],
+			[
+				"distan",
+				"distance_steps\tstatement"
+			],
+			[
+				"base",
+				"baselines\tstatement"
+			],
+			[
+				"repla",
+				"replay_memory\tstatement"
+			],
+			[
+				"dire",
+				"direction_id\tstatement"
+			],
+			[
+				"blo",
+				"block_id\tstatement"
+			],
+			[
+				"exe",
+				"expert_batch\tstatement"
+			],
+			[
+				"num_",
+				"num_of_neg\tstatement"
+			],
+			[
+				"recal",
+				"recalls\tstatement"
+			],
+			[
+				"pos",
+				"pos_set\tstatement"
+			],
+			[
+				"clip",
+				"clip_value\tparam"
+			],
+			[
+				"precis",
+				"precisions\tstatement"
+			],
+			[
+				"episode",
+				"episode_len\tstatement"
+			],
+			[
+				"epis",
+				"episode_len\tstatement"
+			],
+			[
+				"rewa",
+				"rewards\tstatement"
+			],
+			[
+				"num",
+				"num_epochs"
+			],
+			[
+				"rew",
+				"reward\tstatement"
+			],
+			[
+				"poli",
+				"policy_batch\tstatement"
+			],
+			[
+				"dis",
+				"dist_entropy\tstatement"
+			],
+			[
+				"cli",
+				"clip_grad_norm"
+			],
+			[
+				"expert",
+				"expert_loss\tstatement"
+			],
+			[
+				"random",
+				"random_batch\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"XeLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fix",
+				"Python Fix Imports"
+			],
+			[
+				"sft",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"status bar",
+				"View: Toggle Status Bar"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimelinter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"jed",
+				"Project: Refresh Folders"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"CHECK",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"packagesync",
+				"PackageSync: Backup/Restore - Restore Packages From Folder"
+			],
+			[
+				"makd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"to tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"to space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ssy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"set syntax h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syn",
+				"Set Syntax: YAML"
+			],
+			[
+				"PRE",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssy py",
+				"Set Syntax: Python"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remi",
+				"Package Control: Remove Repository"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"pr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssy latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"Pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"lat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"ssy late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"close ",
+				"File: Close All"
+			],
+			[
+				"box",
+				"Boxy Theme: Activation"
+			],
+			[
+				"Box",
+				"Boxy Theme: Activation"
+			],
+			[
+				"satis",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"ssy ma",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ssy c++",
+				"Set Syntax: C++"
+			],
+			[
+				"sf",
+				"SFTP: Setup Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Edit Remote Mapping…"
+			],
+			[
+				"ssy pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/wenhan/Remote/inconsistency/label_corr.py",
+		"/Users/wenhan/Remote/inconsistency/model_utils.py",
+		"/Users/wenhan/Remote/inconsistency/eval_metric.py",
+		"/Users/wenhan/Remote/inconsistency/README.md",
+		"/Users/wenhan/Remote/inconsistency/run_onto.sh",
+		"/Users/wenhan/Remote/inconsistency/run_gcn_onto.sh",
+		"/Users/wenhan/Remote/inconsistency/resources/constant.py",
+		"/Users/wenhan/Remote/inconsistency/models.py",
+		"/Users/wenhan/Remote/inconsistency/analysis.py",
+		"/Users/wenhan/Remote/inconsistency/run_label_gcn.sh",
+		"/Users/wenhan/Remote/inconsistency/config_parser.py",
+		"/Users/wenhan/Remote/inconsistency/data_utils.py",
+		"/Users/wenhan/Remote/inconsistency/main.py",
+		"/Users/wenhan/Remote/inconsistency/scorer.py",
+		"/Users/wenhan/Remote/inconsistency/baseline.py",
+		"/Users/wenhan/Desktop/tmp.txt",
+		"/Users/wenhan/Desktop/pr_base.txt",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1543355686/nlp/home/derenlei/open_type/main.py",
+		"/Users/wenhan/Documents/CV/cv-us.tex",
+		"/Users/wenhan/Web/index.html",
+		"/Users/wenhan/Remote/inconsistency/attention.py",
+		"/Users/wenhan/Remote/inconsistency/run_regu.sh",
+		"/Users/wenhan/Remote/inconsistency/sftp-config.json",
+		"/Users/wenhan/Remote/inconsistency/annotate.py",
+		"/Users/wenhan/Remote/inconsistency/da.py",
+		"/Users/wenhan/Remote/inconsistency/train.py",
+		"/Users/wenhan/Remote/inconsistency/data_loader.py",
+		"/Users/wenhan/Remote/inconsistency/swagaf/swag_loader.py",
+		"/Users/wenhan/Remote/inconsistency/args.py",
+		"/Users/wenhan/Remote/inconsistency/inconsistency.sublime-project",
+		"/Users/wenhan/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1539588211/mapped/mnt/hdd/xwhan/projects/inconsistency/data_loader.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1539589171/mapped/mnt/hdd/xwhan/projects/inconsistency/args.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1539596622/mapped/mnt/hdd/xwhan/projects/inconsistency/train.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1539588983/mapped/mnt/hdd/xwhan/projects/inconsistency/da.py",
+		"/Users/wenhan/Remote/inconsistency/swagaf/dataset_reader.py",
+		"/Users/wenhan/Remote/inconsistency/distinguish.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1539071606/mapped/mnt/hdd/xwhan/projects/inconsistency/swagaf/swag_loader.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1539068335/mapped/mnt/hdd/xwhan/projects/inconsistency/genome.py",
+		"/Users/wenhan/remote/one-shot/modules.py",
+		"/Users/wenhan/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/wenhan/remote/one-shot/data_loader.py",
+		"/Users/wenhan/remote/one-shot/matcher.py",
+		"/Users/wenhan/remote/one-shot/sftp-config.json",
+		"/Users/wenhan/Downloads/orig_squad2/squad2/train.py",
+		"/Users/wenhan/Downloads/backup/model/dcn.py",
+		"/Users/wenhan/remote/one-shot/one_shot.sublime-project",
+		"/Users/wenhan/Library/Application Support/Sublime Text 3/Packages/Jedi - Python autocompletion/Default.sublime-keymap",
+		"/Users/wenhan/Library/Application Support/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/Users/wenhan/remote/one-shot/args.py",
+		"/Users/wenhan/remote/one-shot/data.py",
+		"/Users/wenhan/remote/one-shot/trainer.py",
+		"/Users/wenhan/remote/one-shot/README.md",
+		"/Users/wenhan/remote/one-shot/.gitignore",
+		"/Users/wenhan/Documents/Notes/BookNotes/jacob_nlp.md",
+		"/Eisenstein NLP Notes.md",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1532971611/nlp/mnt/hdd/xwhan/DrQA/scripts/reader/train.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1532970680/nlp/mnt/hdd/xwhan/DrQA/scripts/reader/preprocess.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1532988958/nlp/mnt/hdd/xwhan/DrQA/drqa/reader/utils.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1532995074/nlp/home/xwhan/squad/annotate.py",
+		"/Users/wenhan/remote/DrQA/sftp-config.json",
+		"/Users/wenhan/web/docs/inde",
+		"/Users/wenhan/web/index.html",
+		"/Users/wenhan/s_ppo_plot/plot.py",
+		"/Users/wenhan/codebases/plot/functions.py",
+		"/Users/wenhan/codebases/plot/template.py",
+		"/Users/wenhan/Downloads/scheduled-policy-optimization (5) 2/ijcai18.tex",
+		"/Users/wenhan/Downloads/scheduled-policy-optimization (5) 2/ijcai18.bib",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1527535498/george/mnt/sshd/xwhan/Matterport3DSimulator/tasks/R2R/opts.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1527535438/george/mnt/sshd/xwhan/Matterport3DSimulator/tasks/R2R/log_utils.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1527535339/george/mnt/sshd/xwhan/Matterport3DSimulator/tasks/R2R/train_model_agent.py",
+		"/Users/wenhan/Downloads/FormattingGuidelines2018 2/ijcai18.tex",
+		"/Users/wenhan/Plotdata/plot.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1526714393/nlp/mnt/hdd/xwhan/Fast-TransX/eval.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1526011586/nlp/mnt/hdd/xwhan/OpenKE/extract.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1526719062/nlp/mnt/hdd/xwhan/Fast-TransX/build.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1526429769/nlp/mnt/hdd/xwhan/OpenKE/extract_from_model.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1526011574/nlp/mnt/hdd/xwhan/OpenKE/unify.py",
+		"/Users/wenhan/Downloads/DistMult_NELL.result",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525929149/nlp/mnt/hdd/xwhan/OpenKE/distmult_train.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525939573/nlp/mnt/hdd/xwhan/OpenKE/transE_train.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525939685/nlp/mnt/hdd/xwhan/OpenKE/transE_eval.py",
+		"/Users/wenhan/Downloads/mnet_nell.result",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525940857/nlp/mnt/hdd/xwhan/OpenKE/complex_train.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525930382/nlp/mnt/hdd/xwhan/OpenKE/complex_eval.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1526010657/nlp/mnt/hdd/xwhan/OpenKE/unify.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525934972/nlp/mnt/hdd/xwhan/OpenKE/distmult_eval.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525930561/nlp/mnt/hdd/xwhan/OpenKE/complex_train.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525906774/nlp/mnt/hdd/xwhan/OpenKE/example_train_transe.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525667733/nlp/mnt/hdd/xwhan/one_shot/grapher.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525626267/nlp/mnt/hdd/xwhan/Fast-TransX/transE/transE.cpp",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525627880/nlp/mnt/hdd/xwhan/Fast-TransX/eval.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525626912/nlp/mnt/hdd/xwhan/Fast-TransX/build.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525558837/nlp/mnt/hdd/xwhan/one_shot/data_loader.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525471880/nlp/mnt/hdd/xwhan/one_shot/Wikidata/process.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525547225/nlp/home/xwhan/projects/TweetRC/results/eval_all.py",
+		"/private/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/54a11f44-baf1-437d-a55e-60cd4fcb670b/home/xwhan/projects/TweetRC/results/eval_all.py",
+		"/private/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/54a11f44-baf1-437d-a55e-60cd4fcb670b/home/xwhan/data/TweetQA/evaluate.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1525335918/nlp/mnt/hdd/xwhan/KBs/Wikidata/process.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524973092/nlp/mnt/hdd/xwhan/one_shot/grapher.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524552374/nlp/mnt/hdd/xwhan/one_shot/data_loader.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524523855/nlp/mnt/hdd/xwhan/one_shot/matcher.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524524624/nlp/mnt/hdd/xwhan/one_shot/modules.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524523876/nlp/mnt/hdd/xwhan/one_shot/trainer.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524610190/nlp/mnt/hdd/xwhan/one_shot/data.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524523700/nlp/mnt/hdd/xwhan/one_shot/args.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524552491/nlp/mnt/hdd/xwhan/one_shot/grapher.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524523983/nlp/mnt/hdd/xwhan/one_shot/utils.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524523811/nlp/mnt/hdd/xwhan/one_shot/train.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524523663/nlp/mnt/hdd/xwhan/one_shot/matching.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524099786/nlp/home/xwhan/projects/lifelong/one_shot/args.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524120006/nlp/home/xwhan/projects/lifelong/one_shot/train.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1523998689/nlp/home/xwhan/projects/lifelong/one_shot/matching.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1523998677/nlp/home/xwhan/projects/lifelong/one_shot/modules.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1523740211/nlp/home/xwhan/projects/lifelong/one_shot/utils.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524189898/nlp/home/xwhan/projects/lifelong/one_shot/check_path.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1523952746/nlp/home/xwhan/projects/lifelong/one_shot/data.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1524099738/nlp/home/xwhan/projects/lifelong/one_shot/options.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1523740024/nlp/home/xwhan/projects/lifelong/one_shot/matching.py",
+		"/Users/wenhan/web/custom.css",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1523740049/nlp/home/xwhan/projects/lifelong/one_shot/agent.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1523740163/nlp/home/xwhan/projects/lifelong/one_shot/path.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1523262715/nlp/home/xwhan/projects/lifelong/one_shot/distill.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1523233290/nlp/home/xwhan/projects/lifelong/one_shot/meta.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1523230487/nlp/home/xwhan/projects/lifelong/one_shot/agent.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1523232312/nlp/home/xwhan/projects/lifelong/one_shot/options.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1523230512/nlp/home/xwhan/projects/lifelong/one_shot/train.py",
+		"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1523294369/nlp/home/xwhan/projects/lifelong/one_shot/env.py"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"probs",
+			"json",
+			"token_seq",
+			"model_",
+			"model",
+			"model_id",
+			"add_regu",
+			"add_regy",
+			"add_regu",
+			"':",
+			"regu",
+			"max_b",
+			"save",
+			"use_elmo",
+			"use_",
+			"elmo",
+			"max_mention",
+			"token_bio_mask",
+			"max_span_chars",
+			"max_span_chars ",
+			"mention_span",
+			"fusion",
+			"val_gen_list",
+			"head_",
+			"add",
+			"type",
+			"goal",
+			"get_vocab",
+			"batch_num",
+			"vocab",
+			"get_vocab",
+			"load_embedding_dict",
+			"batch_num",
+			"total_eval_loss",
+			"mask",
+			"eval_loss",
+			"word2id",
+			"save",
+			"logger",
+			"loggerG",
+			"logger",
+			"logging",
+			"crowd_dev_gen",
+			"eval_batch",
+			"evaluate",
+			"@",
+			"logging",
+			"loss",
+			"logging",
+			"eval",
+			"torch.save",
+			"Eval",
+			"TensorboardWriter",
+			"evaluate_batch",
+			"eval_batch",
+			"gc",
+			"notes",
+			"onto",
+			"next",
+			"F.",
+			"tanh",
+			"sigmoid",
+			"save",
+			"sentence",
+			"question",
+			"feat",
+			"csv",
+			"fine",
+			"fine_tune",
+			"tanh",
+			"embed_path",
+			"loggin",
+			"embed",
+			"eval",
+			"rel2candidates_all",
+			"tasks",
+			"cleaned",
+			"candidates_rel",
+			"candidates",
+			"meta",
+			"attn",
+			"n_head",
+			"writer",
+			"tqdm",
+			"logging",
+			"AVG",
+			"loss",
+			"BATCH",
+			"AVG",
+			"loss",
+			"logging",
+			"data",
+			"data[0]",
+			"self.drop",
+			"meta",
+			"normal",
+			"norm",
+			"normal",
+			"self.log",
+			"FIX",
+			"prin",
+			"args.",
+			"id",
+			"summary",
+			"writer",
+			"id",
+			"args.id",
+			"logger",
+			"anaconda_",
+			"anaconda_lin",
+			"linting",
+			"pe",
+			"pep",
+			"pep8",
+			"pep"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 94.0
+	},
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 112.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "inconsistency.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"con",
+				"config_parser.py"
+			],
+			[
+				"cons",
+				"resources/constant.py"
+			],
+			[
+				"mode",
+				"model_utils.py"
+			],
+			[
+				"metr",
+				"eval_metric.py"
+			],
+			[
+				"ev",
+				"eval_metric.py"
+			],
+			[
+				"e",
+				"eval_metric.py"
+			],
+			[
+				"ma",
+				"main.py"
+			],
+			[
+				"da",
+				"data_utils.py"
+			],
+			[
+				"labe",
+				"label_corr.py"
+			],
+			[
+				"lab",
+				"label_corr.py"
+			],
+			[
+				"mod",
+				"models.py"
+			],
+			[
+				"sco",
+				"scorer.py"
+			],
+			[
+				"mo",
+				"model_utils.py"
+			],
+			[
+				"atte",
+				"attention.py"
+			],
+			[
+				"co",
+				"config_parser.py"
+			],
+			[
+				"data",
+				"data_utils.py"
+			],
+			[
+				"model",
+				"model_utils.py"
+			],
+			[
+				"confi",
+				"config_parser.py"
+			],
+			[
+				"dat",
+				"data_utils.py"
+			],
+			[
+				"mai",
+				"main.py"
+			],
+			[
+				"tra",
+				"trainer.py"
+			],
+			[
+				"",
+				"Package Control Messages"
+			],
+			[
+				"pol",
+				"/var/folders/x0/64q0_xj50950b8s4j24mc2wr0000gn/T/sublime-sftp-browse-1490309444/nlp/home/xwhan/RL_KB/data/FB15k-237/policy_1.sh"
+			],
+			[
+				"d",
+				"~/course/cs170-private/labs/include/dllist.h"
+			],
+			[
+				"my",
+				"infrastructure/my_malloc/my_malloc.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "con",
+		"selected_items":
+		[
+			[
+				"con",
+				"~/Remote/continual/continual.sublime-project"
+			],
+			[
+				"",
+				"~/Remote/continual/continual.sublime-project"
+			],
+			[
+				"incon",
+				"~/Remote/inconsistency/inconsistency.sublime-project"
+			],
+			[
+				"in",
+				"~/Remote/continual/continual.sublime-project"
+			],
+			[
+				"conti\t",
+				"~/Remote/continual/continual.sublime-project"
+			],
+			[
+				"inc",
+				"~/Remote/inconsistency/inconsistency.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 157.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"DFS"
+			]
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
