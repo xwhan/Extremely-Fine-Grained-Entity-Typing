@@ -2,7 +2,7 @@ Code for our NAACL 2019 paper:
 
 ## Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing
 
-Paper link: Coming soon...
+Paper link: [http://arxiv.org/abs/1903.02591](http://arxiv.org/abs/1903.02591)
 
 Model Overview:
 <p align="center"><img width="85%" src="imgs/main.png" /></p>
