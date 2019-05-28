@@ -5,7 +5,7 @@ def read_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("model_id", help="Identifier for model")
     # Data
-    parser.add_argument("-train_data", help="Train data", default="ontonotes/g_train.json")
+    parser.add_argument("-train_data", help="Train data", default="ontonotes/augmented_train.json")
     parser.add_argument("-dev_data", help="Dev data", default="ontonotes/g_dev.json")
     parser.add_argument("-eval_data", help="Test data", default="ontonotes/g_test.json")
     # parser.add_argument("-num_epoch", help="The number of epoch", default=5000, type=int)
@@ -63,7 +63,7 @@ def read_args():
     args = parser.parse_args()
 
     if args.goal == 'onto':
-        args.eval_period = 10
+        args.eval_period = 50
 
     return args
 

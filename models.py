@@ -206,7 +206,7 @@ class Model(nn.Module):
       for i, length in enumerate(lengths):
           if length == max_len:
               continue
-          raw_scores.data[i, :, int(length):] = -1e8
+          raw_scores.data[i, :, int(length):] = -1e30
 
       normalized_scores = F.softmax(raw_scores, dim=-1)
       raw_scores.data.copy_(backup)
@@ -253,8 +253,5 @@ class Model(nn.Module):
 
     logits = self.decoder(output, data_type)
     loss = self.define_loss(logits, feed_dict['y'], data_type)
-
-    # l2_loss = 0.01 * (self.decoder.transform.weight ** 2).sum()
-    # loss += l2_loss
 
     return loss, logits

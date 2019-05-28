@@ -21,30 +21,42 @@ First prepare the dataset and embeddings
 #### 1. Ultra-Fine experiments (10331 free-text labels and millions of training data)
 
 ##### Train the best model on Ultra-Fine 
-``CUDA_VISIBLE_DEVICES=1 python main.py $RUN_ID$ -lstm_type single -model_debug -enhanced_mention -data_setup joint -add_crowd -multitask -gcn``
+```
+CUDA_VISIBLE_DEVICES=1 python main.py $RUN_ID$ -lstm_type single -model_debug -enhanced_mention -data_setup joint -add_crowd -multitask -gcn
+```
 
 ##### You can then test your saved model
-``CUDA_VISIBLE_DEVICES=1 python main.py $RUN_ID$ -lstm_type single -model_debug -enhanced_mention -data_setup joint -add_crowd -multitask -gcn -load -mode test -eval_data crowd/test.json``
+```
+CUDA_VISIBLE_DEVICES=1 python main.py $RUN_ID$ -lstm_type single -model_debug -enhanced_mention -data_setup joint -add_crowd -multitask -gcn -load -mode test -eval_data crowd/test.json
+```
 
 
 ##### Ablation experiments
 **a) w/o gcn**
 
-``CUDA_VISIBLE_DEVICES=1 python main.py $RUN_ID$ -lstm_type single -model_debug -enhanced_mention -data_setup joint -add_crowd -multitask``
+```
+CUDA_VISIBLE_DEVICES=1 python main.py $RUN_ID$ -lstm_type single -model_debug -enhanced_mention -data_setup joint -add_crowd -multitask
+```
 
 **b) w/o enhanced mention-context interaction**
 
-``CUDA_VISIBLE_DEVICES=1 python main.py $RUN_ID$ -lstm_type single -gcn -enhanced_mention -data_setup joint -add_crowd -multitask ``
+```
+CUDA_VISIBLE_DEVICES=1 python main.py $RUN_ID$ -lstm_type single -gcn -enhanced_mention -data_setup joint -add_crowd -multitask 
+```
 
 
 #### 2. Experiments on OntoNotes
 **Training**
 
-``CUDA_VISIBLE_DEVICES=1 python main.py $RUN_ID$ -lstm_type single -enhanced_mention -goal onto -gcn``
+```
+CUDA_VISIBLE_DEVICES=1 python main.py $RUN_ID$ -lstm_type single -enhanced_mention -goal onto -gcn
+```
 
 **Testing**
 
-``CUDA_VISIBLE_DEVICES=1 python main.py $RUN_ID$ -lstm_type single -enhanced_mention -goal onto -gcn -mode test -load -eval_data ontonotes/g_dev.json``
+```
+CUDA_VISIBLE_DEVICES=1 python main.py $RUN_ID$ -lstm_type single -enhanced_mention -goal onto -gcn -mode test -load -eval_data ontonotes/g_dev.json
+```
 
 #### Notes
 **The meaning of the arguments can be found in ``config_parser.py``**
